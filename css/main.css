@@ -1,0 +1,38 @@
+.footer{
+    bottom: 0;
+    position: fixed;
+    background-color:darkolivegreen;
+    width: 100%;
+    height: auto;
+    left: 0;
+  
+
+}
+p{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+
+.heartSign{
+    color:red;
+    font-size: 30px;
+   
+}
+.icon{
+    top: 0;
+    width: 20px;
+    height: 100%;
+}
+
+
+#skill{
+      margin-bottom:50px;
+
+
+}
+#circle{
+    height: 300px;
+    border-radius: 50%;
+}
