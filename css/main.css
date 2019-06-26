@@ -1,24 +1,24 @@
 .footer{
     bottom: 0;
     position: fixed;
-    background-color:darkolivegreen;
+    background-color:rgb(152, 79, 137);
     width: 100%;
     height: auto;
     left: 0;
-  
+
 
 }
 p{
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
+
 }
 
 
 .heartSign{
     color:red;
     font-size: 30px;
-   
+
 }
 .icon{
     top: 0;
